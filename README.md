@@ -31,8 +31,10 @@ The program demonstrates a basic command-line menu-driven design pattern where u
 User Interaction:
 
 The Scanner class is used for user input, providing a simple and interactive command-line interface.
+
 How to Use:
 
 Run the program.
+
 Choose actions from the displayed menu to manage your budget.
 Save and load your purchase data to/from purchases.txt for persistent tracking.
